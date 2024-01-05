@@ -1,0 +1,7 @@
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\bin\Debug\JuiceShopException.dll.config
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\bin\Debug\JuiceShopException.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\bin\Debug\JuiceShopException.pdb
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.csprojAssemblyReference.cache
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.csproj.CoreCompileInputs.cache
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.pdb
