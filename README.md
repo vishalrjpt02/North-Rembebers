@@ -8,13 +8,13 @@ This Repositery contains the two ASP.net MVC applications.
 
      Tech used : ----->>
      Backend :
-         c#, SQL Server, MSSQL, RDBMS
+         c#, SQL Server, MSSQL, RDBMS. 
      Tech /Framework :
-         ASP.net 5, MVC Architecture, Entity Framework
+         ASP.net 5, MVC Architecture, Entity Framework. 
      FrontEnd :
-         HTML, CSS, JAVAScript,Jquerry
+         HTML, CSS, JAVAScript,Jquerry. 
      Testing and IDE used.
-         MS Testing, Visual Studio 2019
+         MS Testing, Visual Studio 2019. 
      
   2. Student Management university Application.
      
@@ -22,7 +22,7 @@ This Repositery contains the two ASP.net MVC applications.
      
      Tech used : ----->>
      Backend :
-         c#, SQL Server, MSSQL, RDBMS
+         c#, SQL Server, MSSQL, RDBMS. 
      Testing and IDE used.
-         MS Testing, Visual Studio 2019
+         MS Testing, Visual Studio 2019. 
      
