@@ -1,10 +1,10 @@
 # North-Rembebers
 
-This Repositery contains the two ASP.net MVC applications.
+This Repository contains the two ASP.net MVC applications.
 
   1. Juice Shop vendor MVC application.
      
-     Intro : This a WEB-Based MVC Application where a Juice Shop Ecomerce App is created.
+     Intro : This a WEB-Based MVC Application where a Juice Shop Ecommerce App is created.
 
      Tech used : ----->>
      Backend :
@@ -18,7 +18,7 @@ This Repositery contains the two ASP.net MVC applications.
      
   2. Student Management university Application.
      
-     Intro : this a Console Based Application where OOPS concepts has been demonstrated in a real-world Scanario.
+     Intro : This a Console Based Application where OOPS concepts has been demonstrated in a real-world Scenario.
      
      Tech used : ----->>
      Backend :
