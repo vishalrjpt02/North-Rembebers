@@ -1,0 +1,17 @@
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.dll.config
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.pdb
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.pdb
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.dll.config
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.pdb
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.dll.config
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.pdb
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.dll.config
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csprojAssemblyReference.cache
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.CopyComplete
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.dll
+C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.pdb

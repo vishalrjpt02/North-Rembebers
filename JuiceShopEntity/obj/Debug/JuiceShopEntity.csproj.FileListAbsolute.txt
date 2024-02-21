@@ -1,6 +1,0 @@
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\bin\Debug\JuiceShopEntity.dll.config
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\bin\Debug\JuiceShopEntity.dll
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\bin\Debug\JuiceShopEntity.pdb
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.csproj.CoreCompileInputs.cache
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.dll
-C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.pdb
