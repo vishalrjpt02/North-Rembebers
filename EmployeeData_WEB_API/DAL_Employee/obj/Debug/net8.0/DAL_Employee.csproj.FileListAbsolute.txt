@@ -1,0 +1,15 @@
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\bin\Debug\net8.0\DAL_Employee.deps.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\bin\Debug\net8.0\DAL_Employee.runtimeconfig.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\bin\Debug\net8.0\DAL_Employee.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\bin\Debug\net8.0\DAL_Employee.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.AssemblyInfo.cs
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.sourcelink.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\refint\DAL_Employee.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\DAL_Employee.genruntimeconfig.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\DAL_Employee\obj\Debug\net8.0\ref\DAL_Employee.dll
