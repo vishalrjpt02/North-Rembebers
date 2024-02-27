@@ -26,6 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BAL_Employee\BAL_Employee.csproj" />
     <ProjectReference Include="..\DAL_Employee\DAL_Employee.csproj" />
   </ItemGroup>
 

@@ -2023,6 +2023,21 @@
           }
         }
       },
+      "BAL_Employee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DAL_Employee": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
+        },
+        "compile": {
+          "bin/placeholder/BAL_Employee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BAL_Employee.dll": {}
+        }
+      },
       "DAL_Employee/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5377,6 +5392,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "BAL_Employee/1.0.0": {
+      "type": "project",
+      "path": "../BAL_Employee/BAL_Employee.csproj",
+      "msbuildProject": "../BAL_Employee/BAL_Employee.csproj"
+    },
     "DAL_Employee/1.0.0": {
       "type": "project",
       "path": "../DAL_Employee/DAL_Employee.csproj",
@@ -5385,6 +5405,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BAL_Employee >= 1.0.0",
       "DAL_Employee >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.2",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 8.0.2",
@@ -5430,6 +5451,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\BAL_Employee\\BAL_Employee.csproj": {
+              "projectPath": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\BAL_Employee\\BAL_Employee.csproj"
+            },
             "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\DAL_Employee\\DAL_Employee.csproj": {
               "projectPath": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\DAL_Employee\\DAL_Employee.csproj"
             }

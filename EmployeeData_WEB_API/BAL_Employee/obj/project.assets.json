@@ -1501,6 +1501,20 @@
             "rid": "win"
           }
         }
+      },
+      "DAL_Employee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
+        },
+        "compile": {
+          "bin/placeholder/DAL_Employee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL_Employee.dll": {}
+        }
       }
     }
   },
@@ -4074,10 +4088,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DAL_Employee/1.0.0": {
+      "type": "project",
+      "path": "../DAL_Employee/DAL_Employee.csproj",
+      "msbuildProject": "../DAL_Employee/DAL_Employee.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DAL_Employee >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.2"
@@ -4115,7 +4135,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\DAL_Employee\\DAL_Employee.csproj": {
+              "projectPath": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\EmployeeData_WEB_API\\DAL_Employee\\DAL_Employee.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

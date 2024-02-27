@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Business Layer\" />
+    <ProjectReference Include="..\DAL_Employee\DAL_Employee.csproj" />
   </ItemGroup>
 
 </Project>

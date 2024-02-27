@@ -35,7 +35,7 @@ namespace DAL_Employee.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(20)");
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("EmpCode")
                         .IsRequired()

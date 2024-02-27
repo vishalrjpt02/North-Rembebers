@@ -23,7 +23,7 @@ namespace DAL_Employee.Models
         [Column(TypeName = "nvarchar(250)")]
         public string Address { get; set; }
 
-        [Column(TypeName = "nvarchar(20)")]
+        [Column(TypeName = "nvarchar(100)")]
         public string Email { get; set; }
 
         [Column(TypeName = "nvarchar(13)")]

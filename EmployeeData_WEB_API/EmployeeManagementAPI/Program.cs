@@ -5,6 +5,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Web;
 using Microsoft.Extensions.Options;
+using DAL_Employee.Interface;
+using DAL_Employee.Models;
+using DAL_Employee.Repository;
+using BAL_Employee.Business_Layer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,9 +21,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// DI for DBcontext
-builder.Services.AddDbContext<EmployeeDbContext>(Options => Options.UseSqlServer(builder.Configuration.GetConnectionString("EmployeeCon")));
 
+// DI for DBcontext
+builder.Services.AddDbContext<EmployeeDbContext>(Options => 
+Options.UseSqlServer(builder.Configuration.GetConnectionString("EmployeeCon")));
+builder.Services.AddTransient<IEmpRepository<Employee>, EmployeeRepository>();
+builder.Services.AddTransient<EmployeesBAL, EmployeesBAL>();
 
 var app = builder.Build();
 
