@@ -88,6 +88,42 @@ namespace StudentApp
 
         //}
 
+        public abstract class demo
+        {
+            public void Student001()
+            {
+                Console.WriteLine(  "hello ");
+            }
 
+            public void Student003()
+            {
+                Console.WriteLine("hello ");
+            }
+
+            public abstract void Student002();
+        }
+
+        public class Student : Demo
+        {
+            
+
+            //public override void Student002()
+            //{
+            //    throw new NotImplementedException();
+            //}
+            public new void  Student006()
+            {
+
+            }
+           
+        }
+
+        public class Demo
+        {
+            public void Student006()
+            {
+                Console.WriteLine("hello ");
+            }
+        }
     }
 }

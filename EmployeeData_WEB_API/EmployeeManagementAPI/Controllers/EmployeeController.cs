@@ -133,3 +133,17 @@ namespace EmployeeManagementAPI.Controllers
 
     }
 }
+
+
+Interface.Interface L1
+{ 
+    void Add();
+}
+class ABC : L1 
+{ 
+    void Add() 
+    { 
+        onsole.writeline("H r u"); 
+    } 
+}
+L1 obj = new ABC(); Console.writeline(obj.Add());

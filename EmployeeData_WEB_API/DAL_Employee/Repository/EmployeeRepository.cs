@@ -67,6 +67,11 @@ namespace DAL_Employee.Repository
             }
         }
 
+        public Employee GetEmployeeById(string id)
+        {
+            throw new NotImplementedException();
+        }
+
         public int UpdateEmployee(Employee employee)
         {
             try
@@ -79,5 +84,7 @@ namespace DAL_Employee.Repository
                 throw ;
             }
         }
+
+        
     }
 }
