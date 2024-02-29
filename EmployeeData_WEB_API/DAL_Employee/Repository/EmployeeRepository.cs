@@ -67,10 +67,10 @@ namespace DAL_Employee.Repository
             }
         }
 
-        public Employee GetEmployeeById(string id)
-        {
-            throw new NotImplementedException();
-        }
+        //public Employee GetEmployeeById(string id)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public int UpdateEmployee(Employee employee)
         {
@@ -79,9 +79,9 @@ namespace DAL_Employee.Repository
                 _dbContext.Employees.Update(employee);
                 return _dbContext.SaveChanges();
             }
-            catch (Exception )
+            catch (Exception ex)
             {
-                throw ;
+                throw ex;
             }
         }
 
