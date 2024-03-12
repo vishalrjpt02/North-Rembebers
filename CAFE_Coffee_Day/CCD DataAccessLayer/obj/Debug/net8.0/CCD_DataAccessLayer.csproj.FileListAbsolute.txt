@@ -1,0 +1,36 @@
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.deps.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.runtimeconfig.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD EnitityLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\bin\Debug\net8.0\CCD EnitityLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.AssemblyInfo.cs
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.sourcelink.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.CopyComplete
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\refint\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.genruntimeconfig.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CCD DataAccessLayer\obj\Debug\net8.0\ref\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.deps.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.runtimeconfig.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD_DataAccessLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD EnitityLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\bin\Debug\net8.0\CCD EnitityLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.AssemblyInfo.cs
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.sourcelink.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.csproj.CopyComplete
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\refint\CCD_DataAccessLayer.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\CCD_DataAccessLayer.genruntimeconfig.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\CAFE_Coffee_Day\CCD DataAccessLayer\obj\Debug\net8.0\ref\CCD_DataAccessLayer.dll

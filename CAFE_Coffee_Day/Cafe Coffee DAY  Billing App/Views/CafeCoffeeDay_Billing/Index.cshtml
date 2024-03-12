@@ -1,0 +1,60 @@
+﻿@using CCD_EnitityLayer
+
+@{
+    ViewBag.title = "InvoiceModel";
+    
+}
+
+
+<h1>@ViewBag.Messages</h1>
+
+
+    
+
+<div class="form-style-5">
+    <form asp-action="CreateInvoice" method="post" >
+        
+        <fieldset>
+            <legend><span class="number"> 1 </span> Select Customer</legend>           
+            <label for="Custname">Customer Name:</label>
+            <select id="CustName" name="Customer">
+                @foreach (Customer cust in ViewBag.Customers)
+                {
+                    <option asp-for="CustomerID" value="@cust.CustID">@cust.Name</option>
+                    
+                } 
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend><span class="number"> 2 </span> Select a Product</legend>
+            <label for="Product">Product Name:</label>
+            <select id="PrdName"  name="Product">
+                @foreach (Product Prod in ViewBag.Products)
+                {
+                    <option asp-for="ProductID" value="@Prod.ID">@Prod.ProductName</option>
+                    
+                }
+            </select>
+        </fieldset>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="quantity"  >Quantity</label>
+                <input type="number"  id="quantity" name="quantity">
+            </div>
+        </div>
+        
+        <input type="submit" value="submit"/>
+    </form >
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
