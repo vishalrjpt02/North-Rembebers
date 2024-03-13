@@ -1,0 +1,15 @@
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.AssemblyInfo.cs
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.sourcelink.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\bin\Debug\net8.0\text file reader.exe
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\bin\Debug\net8.0\text file reader.deps.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\bin\Debug\net8.0\text file reader.runtimeconfig.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\bin\Debug\net8.0\text file reader.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\bin\Debug\net8.0\text file reader.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\refint\text file reader.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\text file reader.genruntimeconfig.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\text file reader\obj\Debug\net8.0\ref\text file reader.dll
