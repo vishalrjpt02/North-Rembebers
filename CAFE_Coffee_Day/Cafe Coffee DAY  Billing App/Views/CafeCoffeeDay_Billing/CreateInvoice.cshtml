@@ -105,7 +105,7 @@ n
                                     </div>
                                 </div>
                                 <div class="invoice-footer mt25">
-                                 <p class="text-center">Generated on @DateTime.Now.ToString("yyyy-MM-dd h:mm:ss tt") <a href="@Url.Action("PrintViewToPdf", "CafeCoffeeDay_Billing", new { cust=order.customerId, prd=order.productID, ordId=order.orderID})" class="btn btn-outline-success ml15"><i class="fa fa-print mr5"></i> Print</a></p>
+                                 <p class="text-center">Generated on @DateTime.Now.ToString("yyyy-MM-dd h:mm:ss tt") <a href="@Url.Action("PrintViewToPdf", "CafeCoffeeDay_Billing", new { cust=order.customerId, prd=order.productID, ordId=order.orderID})" class="btn btn-outline-success ml15"><i class="fa fa-print mr5"></i> View Details</a></p>
                                  <p class="text-center">Generated on @DateTime.Now.ToString("yyyy-MM-dd h:mm:ss tt") <a href="@Url.Action("PrintInvoice", "CafeCoffeeDay_Billing", new { cust=order.customerId, prd=order.productID, ordId=order.orderID})" class="btn btn-outline-success ml15"><i class="fa fa-print mr5"></i> Print</a></p>
                                 </div>
                             </div>

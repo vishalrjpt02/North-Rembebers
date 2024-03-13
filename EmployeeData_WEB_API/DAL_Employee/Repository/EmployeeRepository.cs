@@ -72,11 +72,12 @@ namespace DAL_Employee.Repository
         //    throw new NotImplementedException();
         //}
 
-        public int UpdateEmployee(Employee employee)
+        public int UpdateEmployee(Employee _employee)
         {
             try
-            {
-                _dbContext.Employees.Update(employee);
+            { 
+            
+                _dbContext.Employees.Update(_employee);
                 return _dbContext.SaveChanges();
             }
             catch (Exception ex)
