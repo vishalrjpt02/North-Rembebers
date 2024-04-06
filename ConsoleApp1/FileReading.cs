@@ -10,7 +10,7 @@ class FileReading
         string _file = @"C:\Users\visha\Documents\Student.txt";
         string _fileData = "\n Helllo this is vishal kumar       ";
 
-        ArrayList data = new ArrayList{ 12, 34, 56, 7, 8, 35, 65, 4 };
+        ArrayList data = new ArrayList{ 12, 34, 56, 7, 8, 35, 65, 4 ,4,4,4,};
         removeDups(data);
 
         Console.WriteLine("Reading File using File.ReadAllText()");
@@ -23,7 +23,7 @@ class FileReading
             File.AppendAllText( _file,_fileData);
             //File.AppendAllText(removeDups(data).ToString(), _file);
 
-            Console.WriteLine(str);
+            //Console.WriteLine(str);
         }
         else
         {
@@ -38,12 +38,12 @@ class FileReading
         {
             string[] lines = File.ReadAllLines(_file);
 
-            foreach (string ln in lines)
-                Console.WriteLine(ln);
+            //foreach (string ln in lines)
+                //Console.WriteLine(ln);
         }
         Console.WriteLine();
 
-        Console.WriteLine("Reading File using StreamReader");
+        //Console.WriteLine("Reading File using StreamReader");
 
         // By using StreamReader 
         if (File.Exists(_file))
@@ -51,22 +51,27 @@ class FileReading
 
             StreamReader Textfile = new StreamReader(_file);
             string line;
-            var myArray = new System.Collections.ArrayList();
+            //var myArray = new System.Collections.ArrayList();
+
+            ArrayList myArray = new ArrayList { 12, 34, 56, 7, 8, 35, 65, 4, 4, 4, 4, };
 
             while ((line = Textfile.ReadLine()) != null)
             {
                 myArray.Add(line);
-                Console.WriteLine(line);
+                //Console.WriteLine(line);
             }
-            removeDups(myArray);
+            ArrayList al1 = removeDups(myArray);
             Textfile.Close();
+
+            foreach(var al in al1 )
+            {
+                Console.WriteLine(al);
+            }
 
             Console.ReadKey();
         }
         Console.WriteLine();
     }
-
-
     public static ArrayList removeDups(ArrayList _array)
     {
         //int[] _array = new int[] { 1, 2, 1, 2 }

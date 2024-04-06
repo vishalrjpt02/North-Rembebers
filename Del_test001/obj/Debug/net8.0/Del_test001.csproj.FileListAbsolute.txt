@@ -1,0 +1,15 @@
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.AssemblyInfo.cs
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.sourcelink.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\bin\Debug\net8.0\Del_test001.exe
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\bin\Debug\net8.0\Del_test001.deps.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\bin\Debug\net8.0\Del_test001.runtimeconfig.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\bin\Debug\net8.0\Del_test001.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\bin\Debug\net8.0\Del_test001.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\refint\Del_test001.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\Del_test001.genruntimeconfig.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\Del_test001\obj\Debug\net8.0\ref\Del_test001.dll
