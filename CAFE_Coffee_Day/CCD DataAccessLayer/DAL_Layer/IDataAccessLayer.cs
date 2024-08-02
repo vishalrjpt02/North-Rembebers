@@ -15,6 +15,7 @@ namespace CCD_DataAccessLayer.DAL_Layer
         public List<Customer> SearchCustomer();
         public List<Product> SearchProduct();
         public List<Order> SearchOrder();
+        
 
 
 

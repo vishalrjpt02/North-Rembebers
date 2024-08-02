@@ -11,6 +11,8 @@ namespace CCD_EnitityLayer
     [Table("tblOrder")]
     public class Order
     {
+
+        
         [Key]
         public int orderID { get; set; }
 

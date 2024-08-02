@@ -4,3 +4,10 @@ C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\bin\Debug\JuiceSh
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.csproj.CoreCompileInputs.cache
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.dll
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopEntity\obj\Debug\JuiceShopEntity.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\bin\Debug\JuiceShopEntity.dll.config
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\bin\Debug\JuiceShopEntity.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\bin\Debug\JuiceShopEntity.pdb
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\obj\Debug\JuiceShopEntity.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\obj\Debug\JuiceShopEntity.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\obj\Debug\JuiceShopEntity.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopEntity\obj\Debug\JuiceShopEntity.pdb

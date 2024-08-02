@@ -22,7 +22,6 @@ namespace Cafe_Coffee_DAY__Billing_App.Controllers
             _BillingDal = _Dal;
         }
 
-
         public IActionResult Index()
         {
             ViewBag.Message = "Welcome To CAFE COFFEE DAY";
@@ -45,8 +44,6 @@ namespace Cafe_Coffee_DAY__Billing_App.Controllers
         {
             return View(new Order());
         }
-
-        
 
         [HttpPost]
         public IActionResult CreateInvoice(string customer, string Product, string quantity)

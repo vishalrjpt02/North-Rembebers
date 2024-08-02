@@ -11,8 +11,7 @@ namespace JuiceShopEntity
     {
         public int JuiceId { get; set; }
         public String Flavour { get; set; }
-        public double Price { get; set; }
-        
+        public double Price { get; set; }       
         public JuiceEntity() { }
         
     }

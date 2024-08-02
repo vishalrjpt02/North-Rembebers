@@ -166,3 +166,7 @@ C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\Em
 C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\libman.json
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\EmployeeData_WEB_API\EmployeeManagementAPI\bin\Release\net8.0\StackExchange.Redis.dll
