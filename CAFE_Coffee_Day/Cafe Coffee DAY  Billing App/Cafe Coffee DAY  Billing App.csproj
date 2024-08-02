@@ -11,10 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\css\ccd-1564550900.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
@@ -33,13 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Pictures\" />
+    <Folder Include="Pictures\" />
     <Folder Include="wwwroot\Rotativa\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\css\ccd-1564550900.jpg" />
-    <None Include="wwwroot\Pictures\ccd-1564550900.jpg" />
   </ItemGroup>
 
 </Project>

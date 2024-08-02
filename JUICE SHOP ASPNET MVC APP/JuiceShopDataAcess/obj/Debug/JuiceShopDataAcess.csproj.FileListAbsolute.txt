@@ -9,14 +9,3 @@ C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopDataAcess\obj\Debug\Juic
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.csproj.CopyComplete
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.dll
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopDataAcess.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopDataAcess.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopDataAcess.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopEntity.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopEntity.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\bin\Debug\JuiceShopEntity.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.csproj.AssemblyReference.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.csproj.CoreCompileInputs.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.csproj.CopyComplete
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopDataAcess\obj\Debug\JuiceShopDataAcess.pdb

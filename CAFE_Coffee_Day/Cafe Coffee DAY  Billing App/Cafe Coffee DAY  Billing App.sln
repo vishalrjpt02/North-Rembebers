@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cafe Coffee DAY  Billing App", "Cafe Coffee DAY  Billing App.csproj", "{C4AA10B1-0A1C-4C30-AFB0-97D3956030A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe Coffee DAY  Billing App", "Cafe Coffee DAY  Billing App.csproj", "{C4AA10B1-0A1C-4C30-AFB0-97D3956030A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCD_DataAccessLayer", "..\CCD DataAccessLayer\CCD_DataAccessLayer.csproj", "{0DCD0430-5714-494E-A122-38D8A6761E65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD_DataAccessLayer", "..\CCD DataAccessLayer\CCD_DataAccessLayer.csproj", "{0DCD0430-5714-494E-A122-38D8A6761E65}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCD BusinessAccessLayer", "..\CCD BusinessAccessLayer\CCD BusinessAccessLayer.csproj", "{80BF42CE-397F-4744-9DC0-C6BC8103E3DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD BusinessAccessLayer", "..\CCD BusinessAccessLayer\CCD BusinessAccessLayer.csproj", "{80BF42CE-397F-4744-9DC0-C6BC8103E3DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCD EnitityLayer", "..\CCD EnitityLayer\CCD EnitityLayer.csproj", "{19301963-2AB9-4C28-AB79-E969F32DE600}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD_Testing", "..\CCD_Testing\CCD_Testing.csproj", "{F54107F0-CE16-401D-93CE-2A1A1E31B230}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD EnitityLayer", "..\CCD EnitityLayer\CCD EnitityLayer.csproj", "{19301963-2AB9-4C28-AB79-E969F32DE600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{19301963-2AB9-4C28-AB79-E969F32DE600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19301963-2AB9-4C28-AB79-E969F32DE600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19301963-2AB9-4C28-AB79-E969F32DE600}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F54107F0-CE16-401D-93CE-2A1A1E31B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F54107F0-CE16-401D-93CE-2A1A1E31B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F54107F0-CE16-401D-93CE-2A1A1E31B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F54107F0-CE16-401D-93CE-2A1A1E31B230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

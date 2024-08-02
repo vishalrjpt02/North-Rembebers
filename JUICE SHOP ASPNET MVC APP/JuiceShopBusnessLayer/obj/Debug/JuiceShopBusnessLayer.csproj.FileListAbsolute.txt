@@ -15,20 +15,3 @@ C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\J
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.CopyComplete
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.dll
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopBusnessLayer.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopDataAcess.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopEntity.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\bin\Debug\JuiceShopException.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.AssemblyReference.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.CoreCompileInputs.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.csproj.CopyComplete
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopBusnessLayer\obj\Debug\JuiceShopBusnessLayer.pdb

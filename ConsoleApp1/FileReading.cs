@@ -7,74 +7,70 @@ class FileReading
 {
     static void Main(string[] args)
     {
-        //string _file = @"C:\Users\visha\Documents\Student.txt";
-        //string _fileData = "\n Helllo this is vishal kumar       ";
+        string _file = @"C:\Users\visha\Documents\Student.txt";
+        string _fileData = "\n Helllo this is vishal kumar       ";
 
-        //ArrayList data = new ArrayList{ 12, 34, 56, 7, 8, 35, 65, 4 ,4,4,4,};
-        //removeDups(data);
+        ArrayList data = new ArrayList{ 12, 34, 56, 7, 8, 35, 65, 4 ,4,4,4,};
+        removeDups(data);
 
-        //Console.WriteLine("Reading File using File.ReadAllText()");
+        Console.WriteLine("Reading File using File.ReadAllText()");
 
 
-        //if (File.Exists(_file))
-        //{
-        //    string str = File.ReadAllText(_file);
+        if (File.Exists(_file))
+        {
+            string str = File.ReadAllText(_file);
             
-        //    File.AppendAllText( _file,_fileData);
-        //    //File.AppendAllText(removeDups(data).ToString(), _file);
+            File.AppendAllText( _file,_fileData);
+            //File.AppendAllText(removeDups(data).ToString(), _file);
 
-        //    //Console.WriteLine(str);
-        //}
-        //else
-        //{
-        //    File.Create(_file);
-        //    File.AppendAllText(_fileData, _file);
-        //}
-        //Console.WriteLine();
+            //Console.WriteLine(str);
+        }
+        else
+        {
+            File.Create(_file);
+            File.AppendAllText(_fileData, _file);
+        }
+        Console.WriteLine();
 
-        //Console.WriteLine("Reading File using File.ReadAllLines()");
+        Console.WriteLine("Reading File using File.ReadAllLines()");
 
-        //if (File.Exists(_file))
-        //{
-        //    string[] lines = File.ReadAllLines(_file);
+        if (File.Exists(_file))
+        {
+            string[] lines = File.ReadAllLines(_file);
 
-        //    //foreach (string ln in lines)
-        //        //Console.WriteLine(ln);
-        //}
-        //Console.WriteLine();
+            //foreach (string ln in lines)
+                //Console.WriteLine(ln);
+        }
+        Console.WriteLine();
 
-        ////Console.WriteLine("Reading File using StreamReader");
+        //Console.WriteLine("Reading File using StreamReader");
 
-        //// By using StreamReader 
-        //if (File.Exists(_file))
-        //{
+        // By using StreamReader 
+        if (File.Exists(_file))
+        {
 
-        //    StreamReader Textfile = new StreamReader(_file);
-        //    string line;
-        //    //var myArray = new System.Collections.ArrayList();
+            StreamReader Textfile = new StreamReader(_file);
+            string line;
+            //var myArray = new System.Collections.ArrayList();
 
-        //    ArrayList myArray = new ArrayList { 12, 34, 56, 7, 8, 35, 65, 4, 4, 4, 4, };
+            ArrayList myArray = new ArrayList { 12, 34, 56, 7, 8, 35, 65, 4, 4, 4, 4, };
 
-        //    while ((line = Textfile.ReadLine()) != null)
-        //    {
-        //        myArray.Add(line);
-        //        //Console.WriteLine(line);
-        //    }
-        //    ArrayList al1 = removeDups(myArray);
-        //    Textfile.Close();
+            while ((line = Textfile.ReadLine()) != null)
+            {
+                myArray.Add(line);
+                //Console.WriteLine(line);
+            }
+            ArrayList al1 = removeDups(myArray);
+            Textfile.Close();
 
-        //    foreach(var al in al1 )
-        //    {
-        //        Console.WriteLine(al);
-        //    }
+            foreach(var al in al1 )
+            {
+                Console.WriteLine(al);
+            }
 
-        //    Console.ReadKey();
-        //}
-        //Console.WriteLine();
-
-        demo001 d1 = new demo001();
-        Console.WriteLine(d1.test001()); 
-        
+            Console.ReadKey();
+        }
+        Console.WriteLine();
     }
     public static ArrayList removeDups(ArrayList _array)
     {
@@ -90,17 +86,4 @@ class FileReading
 
     }
 
-}
-
-
-public class demo001
-{
-    static demo001()
-    {
-        Console.WriteLine(  "static ctor");
-    }
-    public int test001()
-    {
-        return 1;
-    }
 }

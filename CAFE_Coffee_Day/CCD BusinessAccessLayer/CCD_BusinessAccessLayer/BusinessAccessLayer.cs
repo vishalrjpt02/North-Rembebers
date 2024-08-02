@@ -10,15 +10,11 @@ namespace CCD_BusinessAccessLayer.CCD_BusinessAccessLayer
 {
     public class BusinessAccessLayer 
     {
-        public BusinessAccessLayer() 
-        { 
-
-        }
         private readonly IDataAccessLayer _customerDAL;
-        public BusinessAccessLayer(IDataAccessLayer dataAccessLayer)
+        public BusinessAccessLayer(IDataAccessLayer dataAccessLayer) 
         {
             _customerDAL = dataAccessLayer;
-
+            
         }
 
         public Customer AddNewCustomer(Customer _customer)

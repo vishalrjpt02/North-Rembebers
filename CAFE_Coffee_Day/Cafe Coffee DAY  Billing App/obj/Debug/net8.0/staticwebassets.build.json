@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DZFkuBcKNxSsIKDoMdeez3gRmLN2I0b9edeO2duA2y8=",
+  "Hash": "8rnBl0T5JCLFPJPmpax78abIoSMEkrvkb9z2QcG4PWw=",
   "Source": "Cafe Coffee DAY  Billing App",
   "BasePath": "_content/Cafe Coffee DAY  Billing App",
   "Mode": "Default",
@@ -1231,25 +1231,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\CAFE_Coffee_Day\\Cafe Coffee DAY  Billing App\\wwwroot\\Pictures\\ccd-1564550900.jpg",
-      "SourceId": "Cafe Coffee DAY  Billing App",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\CAFE_Coffee_Day\\Cafe Coffee DAY  Billing App\\wwwroot\\",
-      "BasePath": "_content/Cafe Coffee DAY  Billing App",
-      "RelativePath": "Pictures/ccd-1564550900.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pictures\\ccd-1564550900.jpg"
     },
     {
       "Identity": "C:\\Users\\visha\\source\\repos\\vishalrjpt02\\North-Rembebers\\CAFE_Coffee_Day\\Cafe Coffee DAY  Billing App\\wwwroot\\Rotativa\\wkhtmltoimage.exe",

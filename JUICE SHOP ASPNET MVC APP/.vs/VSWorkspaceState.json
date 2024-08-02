@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JuiceShopDataAcess"
   ],
-  "SelectedNode": "\\JuiceShopSystem.sln",
+  "SelectedNode": "\\JuiceShopDataAcess\\JuiceDataMannager.cs",
   "PreviewInSolutionExplorer": false
 }

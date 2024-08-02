@@ -5,10 +5,3 @@ C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\Juic
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.csproj.CoreCompileInputs.cache
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.dll
 C:\Users\M1057961\source\repos\JuiceShopSystem\JuiceShopException\obj\Debug\JuiceShopException.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\bin\Debug\JuiceShopException.dll.config
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\bin\Debug\JuiceShopException.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\bin\Debug\JuiceShopException.pdb
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\obj\Debug\JuiceShopException.csproj.AssemblyReference.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\obj\Debug\JuiceShopException.csproj.CoreCompileInputs.cache
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\obj\Debug\JuiceShopException.dll
-C:\Users\visha\source\repos\vishalrjpt02\North-Rembebers\JUICE SHOP ASPNET MVC APP\JuiceShopException\obj\Debug\JuiceShopException.pdb

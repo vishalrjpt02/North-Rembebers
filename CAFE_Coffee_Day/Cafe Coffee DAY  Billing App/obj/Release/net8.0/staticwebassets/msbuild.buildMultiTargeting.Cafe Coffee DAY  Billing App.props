@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cafe Coffee DAY  Billing App.props" />
+</Project>
